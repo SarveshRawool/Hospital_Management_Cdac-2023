@@ -65,5 +65,8 @@ public class AddDoctor  {
 	@Max(value = 150000, message = "charges must be < 30000")
 	private Double charges;
 	//private MultipartFile imageFile;
+	//private MultipartFile imageFile;
+	//private MultipartFile imageFile;
+	//private MultipartFile imageFile;
 	
 }
