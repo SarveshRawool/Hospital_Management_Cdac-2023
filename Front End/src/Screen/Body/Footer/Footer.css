@@ -1,0 +1,15 @@
+.footer{ width:100%; float:left; background:#333;}
+.footer-parts{ width:450px; float:left; padding:0px 10px;}
+.footer-parts-h4{ font-size:18px; padding:15px 10px 0px;margin-left: 30px; color:#FFF;}
+.footer-parts ul{list-style:none; padding:0px;}
+.footer-parts ul li{list-style:none; font-size:12px; padding:5px; margin:5px 0px; font-weight:bold;}
+.footer-parts ul li a{padding:8px 10px; margin:2px 0px; text-decoration:none; color:#CCC;}
+.footer-parts ul li a:hover{color:#FFF;}
+.copyrights{ width:100%; font-size:12px; background:#000; float:left; padding:15px 30px 15px 30px; color:#FFF; }
+.copyrights-left{ width:850px; float:left;}
+.copyrights-left a{ color:#FFF; text-decoration:none;}
+.copyrights-left a:hover{color:#CCC;}
+.copyrights-right{  float:left; text-align:right;}
+.copyrights-right a{ color:#FFF; text-decoration:none;}
+.copyrights-right a:hover{color:#CCC;}
+.fa{ color:#FFF;}
