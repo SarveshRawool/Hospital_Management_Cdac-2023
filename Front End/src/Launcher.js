@@ -32,6 +32,7 @@ import ViewAllHospitals from "./Screen/Admin/ViewAllHospitals/ViewAllHospitals";
 import EditDeleteDoctor from "./Screen/Hospital/EditDeleteDoctor/EditDeleteDoctor";
 import ViewAllDoctors from "./Screen/Hospital/ViewAllDoctors/ViewAllDoctors";
 import AboutUs from "./Screen/Body/Info/AboutUs";
+import AddAdmin from "./Screen/Admin/AddAdmin/AddAdmin";
 
 
 function Launcher() {
@@ -43,6 +44,8 @@ function Launcher() {
                 <Route exact path="/" component={MainPage}></Route>
                 <Route exact path="/about" component={AboutUs}></Route>
                 <Route exact path="/Login" component={Login}></Route>
+                <Route exact path="/AddAdmin" component={AddAdmin}></Route>
+
                     <ProtectedRoute exact path="/UserHome" component={MainPage}></ProtectedRoute>
                     <ProtectedRoute exact path="/DoctorHome" component={DoctorHome}></ProtectedRoute>
                     <ProtectedRoute exact path="/DoctorAppointments" component={DoctorAppointments}></ProtectedRoute>
