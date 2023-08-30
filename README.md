@@ -16,16 +16,16 @@ Our hospital management project, built using Spring Boot for the backend and Rea
 
 The project caters to four distinct user roles, each with specific functionalities aligned with their responsibilities:
 
-<h3>#Admin:</h3> 
+<h4>#Admin:</h4> 
 Admins have overarching control over the system. They can add and remove hospitals, ensuring that the list of managed hospitals is accurate. Admins manage user accounts, granting access and permissions to various stakeholders.
 
-<h3>#Hospital Receptionist:</h3>
+<h4>#Hospital Receptionist:</h4>
 Receptionists, critical to daily hospital operations, can add and remove doctors as well as update hospital profiles. Their ability to view appointments and generated receipts empowers efficient patient management and financial tracking.
 
-<h3>#Doctor: </h3>
+<h4>#Doctor: </h4>
 Doctors can effectively manage their appointments, generate and view receipts, and maintain updated profiles. These functionalities enhance their ability to deliver quality care while staying organized.
 
-<h3>#Patient:</h3> 
+<h4>#Patient:</h4> 
 Patients benefit from streamlined processes, enabling them to schedule, cancel, and view appointments seamlessly. They can also update their profiles to maintain accurate contact details.
 
 <h2>#Seamless Communication:</h2>
