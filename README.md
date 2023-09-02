@@ -49,6 +49,11 @@ In summary, our hospital management project stands as a testament to the effecti
 <hr/>
 
 <h2># 📸 Screenshots:</h2>
+<h2>Plan : </h2>
+
+![True life care drawio](https://github.com/SarveshRawool/Hospital_Management_Cdac-2023/assets/125261263/5975a69f-1fdc-411c-ab7a-f1ef554737d6)
+
+<hr/>
 <h3>Home Page : </h3>
 
 ![Screenshot from 2023-08-30 14-50-50](https://github.com/SarveshRawool/Hospital_Management_Cdac-2023/assets/125261263/d12384dd-48ac-4e0b-9b7c-ce8d489fe125)
@@ -84,7 +89,9 @@ In summary, our hospital management project stands as a testament to the effecti
 ![Screenshot from 2023-09-02 16-15-30](https://github.com/SarveshRawool/Hospital_Management_Cdac-2023/assets/125261263/104e9926-0171-4680-959c-345c4aaa127f)
 
 <hr/>
-
 <h2>ER Diagram : </h2>
 
 ![Screenshot from 2023-08-29 15-30-16](https://github.com/SarveshRawool/Hospital_Management_Cdac-2023/assets/125261263/f82fc6da-a432-4f41-bfa8-16fce5443657)
+
+<hr/>
+
